@@ -25,4 +25,4 @@
 
  
 
- [![](https://visitcount.itsvg.in/api?id=thierryarauj0&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thierryarauj0&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
