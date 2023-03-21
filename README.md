@@ -2,10 +2,11 @@
 
 ### Hi, I'm Thierry
 
--Studying Java
+-Studying Java and Python
+ computer vision is my passion for now 
 
 
--I have knowledge in Springboot, Mysql, Css and Html
+-I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 
 
 
 
