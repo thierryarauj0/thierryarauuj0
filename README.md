@@ -2,8 +2,7 @@
 
 ### Hi, I'm Thierry
 
--Studying Java and Python
- computer vision is my passion for now 
+-Studying C# , WPF and .NET 
 
 
 -I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 
