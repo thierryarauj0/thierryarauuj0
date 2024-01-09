@@ -2,11 +2,12 @@
 
 ### Hi, I'm Thierry
 
--Studying C# , WPF and .NET 
+-Studying C# , Javascript, react and cyber security
 
 
--I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 
+-I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 .
 
+-currently working with react and .net at eptus corporation
 
 
 <div align="center">
