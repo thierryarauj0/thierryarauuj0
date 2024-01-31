@@ -7,7 +7,7 @@
 
 -I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 .
 
--currently working with react and .net at eptus corporation
+-currently working with NextJs and .net at eptus corporation
 
 <div align="center">
   <a href="https://github.com/thierryarauj0">
