@@ -5,9 +5,9 @@
 -Studying C# , Javascript, react and cyber security
 
 
--I have knowledge in Springboot, Mysql, Css, Html, Mediapipe and Cv2 .
+-I have expertise in various technologies but I am currently focused on React, Node.js, and TypeScript.
 
--currently working with NextJs and .net at eptus corporation
+-currently working with React, typescript and node  and .net at eptus corporation
 
 <div align="center">
   <a href="https://github.com/thierryarauj0">
